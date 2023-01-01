@@ -1,3 +1,3 @@
-module gitflic.ru/project/victorshadrin/gocli
+module github.com/PADRESH/gocli
 
 go 1.19
